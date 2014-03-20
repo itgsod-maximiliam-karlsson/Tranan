@@ -6,7 +6,7 @@ body{
 }
 div#Countainer{
     width: 1200px;
-    height: 993px;
+    height: 990px;
     background-color: black;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
     filter: alpha(opacity=60);
@@ -17,8 +17,16 @@ div#Countainer{
     margin-left: auto;
 }
 
+div#Menu{
+    width: 200px;
+    height: 990px;
+    background-color: darkslategrey;
+    float: left;
+}
+
 div#Header{
-    width: 1200px;
+    width: 1000px;
     height: 120px;
-    background-color: red;
+    background-color: darkslategrey;
+    float: right;
 }
