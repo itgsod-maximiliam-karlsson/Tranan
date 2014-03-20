@@ -1,7 +1,18 @@
+body{
+    background-image:url("Pictures/Background.jpg");
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-position:center;
+}
 div#Countainer{
     width: 1200px;
     height: 993px;
     background-color: black;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+    filter: alpha(opacity=60);
+    -moz-opacity: 0.6;
+    -khtml-opacity: 0.6;
+    opacity: 0.6;
     margin-right: auto;
     margin-left: auto;
 }
