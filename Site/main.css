@@ -1,9 +1,10 @@
 body{
-    background-image:url("Pictures/Photoshoped/Background.jpg");
+    background-image:url('./Pictures/Orginal%20pics/Background.jpg');
     background-repeat:no-repeat;
     background-attachment:fixed;
     background-position:center;
 }
+
 div#Countainer{
     width: 1200px;
     height: 990px;
