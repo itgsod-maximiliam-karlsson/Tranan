@@ -20,6 +20,8 @@ div#Countainer{
 }
 
 div#Menu{
+    font-style: inherit;
+    font-weight: inherit;
     width: 200px;
     height: 990px;
     background-color: darkslategrey;
