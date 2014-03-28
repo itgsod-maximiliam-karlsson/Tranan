@@ -1,5 +1,6 @@
 body{
-    background-image:url('./Pictures/Orginal%20pics/Background.jpg');
+    background-color: black;
+    background-image:url('./Pictures/Photoshoped/Background.jpeg');
     background-repeat:no-repeat;
     background-attachment:fixed;
     background-position:center;
