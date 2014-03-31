@@ -20,12 +20,23 @@ div#Countainer{
 }
 
 div#Menu{
-    font-style: inherit;
-    font-weight: inherit;
     width: 200px;
     height: 990px;
     background-color: darkslategrey;
     float: left;
+}
+
+div#Loggo{
+    width: 200px;
+    height: 200px;
+    background-image:url('./Pictures/Photoshoped/Loggo.png');
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+    filter: alpha(opacity=80);
+    -moz-opacity: 0.8;
+    -khtml-opacity: 0.8;
+    opacity: 0.8;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 div#Header{
@@ -33,4 +44,12 @@ div#Header{
     height: 120px;
     background-color: darkslategrey;
     float: right;
+}
+h1{
+    padding-left: 350px;
+    font-size: 60px;
+    color: black;
+    -webkit-text-stroke-width: 0.01px;
+    -webkit-text-stroke-color: white;
+    font-family: Andes;
 }
