@@ -12,8 +12,8 @@ div#Line{
     background-color: black;
 }
 div#Countainer{
-    width: 1200px;
-    height: 990px;
+    width: 1100px;
+    height: 1000px;
     background-color: rgba(0,0,0,0.6);
     margin-right: auto;
     margin-left: auto;
@@ -25,6 +25,7 @@ div#Menu{
     background-color: rgba(47,79,79,0.7);
     float: left;
 }
+
 
 div#Loggo{
     width: 16.7;
@@ -51,6 +52,17 @@ div#Header{
     background-color: rgba(47,79,79,0.7);
     float: right;
 }
+div#content{
+    width: 73.3%;
+    height: 80%;
+    background-color: black;
+    float: left;
+    margin-left: 50px;
+    margin-top: 50px;
+    border: 1.8px;
+    border-style: solid;
+    border-color: rgba(34,178,170,0.6);
+}
 h1{
     padding-left: 250px;
     font-size: 60px;
@@ -64,4 +76,5 @@ a{
     font-size: 25px;
     text-decoration: none;
     color: black;
+    display: block;
 }
