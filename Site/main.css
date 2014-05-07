@@ -72,6 +72,13 @@ div#img_place{
     margin-top: 100px;
     margin-right: 40px;
 }
+div#img_place_room{
+    float: right;
+    width: 35%;
+    height: 60%;
+    margin-top: 50px;
+    margin-right: 10px;
+}
 h1{
     padding-left: 250px;
     font-size: 60px;
@@ -86,4 +93,8 @@ a{
     text-decoration: none;
     color: #dcdcdc;
     display: block;
+}
+
+a#dark{
+    color: gray;
 }
