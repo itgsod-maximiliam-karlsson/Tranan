@@ -73,7 +73,7 @@ div#img_place{
     margin-right: 40px;
 }
 div#img_place_room{
-    float: right;
+    float: left;
     width: 35%;
     height: 60%;
     margin-top: 50px;
@@ -83,8 +83,12 @@ h1{
     padding-left: 250px;
     font-size: 60px;
     color: black;
-    -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: #dcdcdc;
+    text-shadow:
+    1px 1px 0 #dcdcdc,
+    -1px -1px 0 #dcdcdc,
+    1px -1px 0 #dcdcdc,
+    -1px 1px 0 #dcdcdc,
+    1px 1px 0 #dcdcdc;
     font-family: NORWESTER;
 }
 a{
