@@ -1,6 +1,31 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <script type="text/javascript" src="jquery-1.2.6.min.js"></script>
+
+    <script type="text/javascript">
+        function slideSwitch() {
+            var $active = $('#slideshow DIV.active');
+
+            if ( $active.length == 0 ) $active = $('#slideshow DIV:last');
+
+            var $next =  $active.next().length ? $active.next()
+                    : $('#slideshow DIV:first');
+
+            $active.addClass('last-active');
+
+            $next.css({opacity: 0.0})
+                    .addClass('active')
+                    .animate({opacity: 1.0}, 1000, function() {
+                        $active.removeClass('active last-active');
+                    });
+        }
+
+        $(function() {
+            setInterval( "slideSwitch()", 5000 );
+        });
+    </script>
+
     <title>Rapture Crane</title>
     <meta charset="UTF-8"/>
     <link rel="stylesheet" href="main.css"/>
@@ -22,10 +47,27 @@
         </div>
         <div id="content">
             <div id="text">
-                <div id="img_place_room"><img src="Pictures/Orginal%20pics/Room1_done.jpg" alt="Hotel"/></div>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tincidunt orci euismod massa gravida, nec congue magna condimentum. Phasellus non elementum lorem. Ut vel tristique augue, vitae ultrices est. Duis volutpat risus arcu. Ut vel porttitor orci, nec tincidunt neque. Integer venenatis, purus nec dignissim tempus, ipsum magna rhoncus nibh, quis ultrices tortor lectus at massa. Aenean pretium, sapien a mollis interdum, erat lacus molestie tortor, sed gravida ipsum ante vel risus. Aliquam nec ipsum ut purus dapibus elementum eget id quam. Praesent tempor pulvinar ante, eu bibendum lectus accumsan et.</p>
-            </div>
+                <div id="slideshow">
+                    <div class="active">
+                        <a href=""><img src="Pictures/Orginal%20pics/Room1.jpg" alt="Slideshow Image 1" /></a>
+                        Bedroom.
+                    </div>
+
+                    <div>
+                        <a href=""><img src="Pictures/Orginal%20pics/Room2.jpeg" alt="Slideshow Image 2" /></a>
+                        Bedroom.
+                    </div>
+
+                    <div>
+                        <a href=""><img src="Pictures/Orginal%20pics/Food.jpeg" alt="Slideshow Image 3" /></a>
+                        kitchen.
+                    </div>
+                </div>
+                <div id = text_under_slideshow>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tincidunt orci euismod massa gravida, nec congue magna condimentum. Phasellus non elementum lorem. Ut vel tristique augue, vitae ultrices est. Duis volutpat risus arcu. Ut vel porttitor orci, nec tincidunt neque. Integer venenatis, purus nec dignissim tempus, ipsum magna rhoncus nibh, quis ultrices tortor lectus at massa. Aenean pretium, sapien a mollis interdum, erat lacus molestie tortor, sed gravida ipsum ante vel risus. Aliquam nec ipsum ut purus dapibus elementum eget id quam. Praesent tempor pulvinar ante, eu bibendum lectus accumsan et.</p>
+                </div>
         </div>
     </div>
 </body>
 </html>
+
