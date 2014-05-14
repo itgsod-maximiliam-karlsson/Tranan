@@ -13,6 +13,14 @@ div#Countainer{
     margin-left: auto;
 }
 
+div#Countainer_trip{
+    width: 1100px;
+    height: 1250px;
+    background-color: rgba(0,0,0,0.6);
+    margin-right: auto;
+    margin-left: auto;
+}
+
 div#Menu{
     width: 16.7%;
     height: 100%;
