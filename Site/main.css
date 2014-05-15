@@ -21,6 +21,14 @@ div#Countainer_trip{
     margin-left: auto;
 }
 
+div#Countainer_about{
+    width: 1100px;
+    height: 1550px;
+    background-color: rgba(0,0,0,0.6);
+    margin-right: auto;
+    margin-left: auto;
+}
+
 div#Menu{
     width: 16.7%;
     height: 100%;
@@ -144,5 +152,6 @@ a#dark{
 padding-top: 500px;
 }
 
-#img_place{
+#img_div_enginere{
+    padding-top: 50px;
 }
