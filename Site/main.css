@@ -15,7 +15,7 @@ div#Countainer{
 
 div#Countainer_trip{
     width: 1100px;
-    height: 1250px;
+    height: 1400px;
     background-color: rgba(0,0,0,0.6);
     margin-right: auto;
     margin-left: auto;
@@ -138,6 +138,10 @@ a#dark{
 
 #text_under_slideshow {
     padding-top: 60px;
+}
+
+#img_div_trip{
+padding-top: 500px;
 }
 
 #img_place{
