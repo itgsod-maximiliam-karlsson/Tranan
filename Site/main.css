@@ -28,6 +28,13 @@ div#Countainer_about{
     margin-right: auto;
     margin-left: auto;
 }
+div#Countainer_Error{
+    width: 1100px;
+    height: 1400px;
+    background-color: rgba(0,0,0,0.6);
+    margin-right: auto;
+    margin-left: auto;
+}
 
 div#Menu{
     width: 16.7%;

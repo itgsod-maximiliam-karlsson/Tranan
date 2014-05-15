@@ -2,6 +2,95 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4d89c9d-2474-4544-9eda-2867c58b5a23" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/Rapture Crane - Trip.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/Rapture Crane - Trip_files/Creater.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/Rapture Crane - Trip_files/enginer.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/Rapture Crane.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/Rapture Crane_files/bioshock-rapture-city1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/16px-1401334.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/180px-1000px-Greenland_(orthographic_projection).svg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/180px-ABY_scatteredPaper_d.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/180px-Rapture_november_5_1946_display.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/250px-BioShock2_2010-02-27_17-38-29-84.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/250px-Bioshock2_Launch_Trailer_XBL_UK_MS_XBL_High_Res_WMV-001.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/250px-Bioshock_2009-01-09_04-43-59-78.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/250px-Entrance_Tower.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/250px-Fall.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/250px-Rapture_Family.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/250px-Rapture_trailer.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/250px-Shot00000.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/250px-Warnock_tvspot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/29px-Protectortrials_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/300px-BREAKING_NEWS_-_05.09.12_-_Bioshock_Delayed.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/300px-BioShock_2_Minerva's_Den_DLC_Trailer.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/300px-BioShock_Infinite_-_Voxophone_Locations_Downtown_Emporia.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/300px-BioShock_Infinite_Walkthrough_-_Ending_--SPOILERS--.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/300px-News_Bioshock_Infinite_Delayed_Again.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/30px-CRicon3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/30px-Minerva'sDenicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/30px-TSITS_Icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/39px-Protectortrials_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/40px-CRicon3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/40px-Minerva'sDenicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/40px-TSITS_Icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/64px-BSIDLC-BurialAtSeaEp1_Logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/69px-BioShock2icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/79px-BioShock_Infinite_Logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/82px-0,231,0,230-Loot_page_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/82px-124,873,0,748-Cat_Babbage.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/82px-161,1122,0,960-SS_Steve.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/82px-213,921,0,707-Unstable_vector.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/82px-213,921,0,707-Zzz-frontalcortex.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/82px-421,1502,0,1080-Suchong's_device.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/83px-BioShockicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/90x55x2-1000px-Greenland_(orthographic_projection).svg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/90x55x2-81610694E2883A79531C67F0DD5972E725A0C365.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/90x55x2-ABY_scatteredPaper_d.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/90x55x2-BioShock2_2010-02-27_17-38-29-84.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/90x55x2-Bioshock2_Launch_Trailer_XBL_UK_MS_XBL_High_Res_WMV-001.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/90x55x2-Bioshock_2009-01-09_04-43-59-78.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/90x55x2-Bioshock_rapture.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/90x55x2-Entrance_Tower.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/90x55x2-Fall.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/90x55x2-Rapture.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/90x55x2-Rapture_Family.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/90x55x2-Rapture_Map_BATE2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/90x55x2-Rapture_november_5_1946_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/90x55x2-Rapture_trailer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/90x55x2-Shot00000.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/90x55x2-Spoilers.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/90x55x2-Tumblr_mzln9b8I2x1r98n8go1_1280.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/90x55x2-Warnock_tvspot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/Bio2Micon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/BioShock2icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/BioShockicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/Lightbox.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/Rapture.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/Rapture_trailer.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/Spoilers.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/Wiki-wordmark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/WikiaPhotoGallery.view.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/abtesting,oasis_blocking,analytics_gas_js,qualaroo_blocking_js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/amd-wikia.tracker.stub-wikia.cookies,geo,window" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/amd.shared-jquery.checkboxShiftClick,client,cookie,makeCollapsible,messageBox,mw-jump,mwExtension-mediawiki.Title,Uri,user,util-mediawiki.legacy.aja.abTest,cache,document,loader,localStorage,location,log,mw,nirvana,querystring,throbber,thumbnailer,tracker" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/c59hk50tip94.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/ext.siteWideMessages.anon" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/ext.visualEditor.wikiaViewPageTarget.init" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/ga.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/gpt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/icon_close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/jquery,mediawiki" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/jquery.mustache-wikia.mustache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/jquery.ui.core,tabs,widget" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/oasis_shared_core_js,adengine2_js,oasis_shared_js,oasis_anon_js,liftium_ads_js,toc_js,qualtrics_zone_code_injector_js,qualaroo_js,relatedpages_js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/pubads_impl_39.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/site" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/startup" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/videos_module_js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/wikia.ext.abtesting" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/wikia.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Site/Pictures/Orginal pics/overview_files/wikiabarIcon.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Site/about.html" afterPath="$PROJECT_DIR$/Site/about.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Site/main.css" afterPath="$PROJECT_DIR$/Site/main.css" />
     </list>
@@ -39,8 +128,8 @@
       <file leaf-file-name="rent_room.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Site/rent_room.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.125" vertical-offset="345" max-vertical-offset="1140">
-              <caret line="44" column="35" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
+            <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="1140">
+              <caret line="5" column="34" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -49,18 +138,28 @@
       <file leaf-file-name="trip.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Site/trip.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.5" vertical-offset="138" max-vertical-offset="720">
+            <state vertical-scroll-proportion="-17.375" vertical-offset="93" max-vertical-offset="720">
               <caret line="34" column="99" selection-start-line="34" selection-start-column="75" selection-end-line="34" selection-end-column="99" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="about.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Site/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2783505" vertical-offset="243" max-vertical-offset="825">
-              <caret line="27" column="34" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="34" />
+            <state vertical-scroll-proportion="-15.5" vertical-offset="243" max-vertical-offset="825">
+              <caret line="41" column="117" selection-start-line="41" selection-start-column="93" selection-end-line="41" selection-end-column="117" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="easteregg.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Site/easteregg.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7474227" vertical-offset="0" max-vertical-offset="582">
+              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -69,8 +168,8 @@
       <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Site/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1856" max-vertical-offset="2505">
-              <caret line="158" column="10" selection-start-line="158" selection-start-column="10" selection-end-line="158" selection-end-column="10" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="1991" max-vertical-offset="2610">
+              <caret line="168" column="1" selection-start-line="168" selection-start-column="1" selection-end-line="168" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -99,6 +198,7 @@
         <option value="$PROJECT_DIR$/Site/index.html" />
         <option value="$PROJECT_DIR$/Site/about.html" />
         <option value="$PROJECT_DIR$/Site/main.css" />
+        <option value="$PROJECT_DIR$/Site/easteregg.html" />
       </list>
     </option>
   </component>
@@ -400,24 +500,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Site/rent_room.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.125" vertical-offset="345" max-vertical-offset="1140">
-          <caret line="44" column="35" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
+        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="1140">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Site/trip.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.5" vertical-offset="138" max-vertical-offset="720">
+        <state vertical-scroll-proportion="-17.375" vertical-offset="93" max-vertical-offset="720">
           <caret line="34" column="99" selection-start-line="34" selection-start-column="75" selection-end-line="34" selection-end-column="99" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Site/main.css">
+    <entry file="file://$PROJECT_DIR$/Site/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1856" max-vertical-offset="2505">
-          <caret line="158" column="10" selection-start-line="158" selection-start-column="10" selection-end-line="158" selection-end-column="10" />
+        <state vertical-scroll-proportion="-15.5" vertical-offset="243" max-vertical-offset="825">
+          <caret line="41" column="117" selection-start-line="41" selection-start-column="93" selection-end-line="41" selection-end-column="117" />
           <folding />
         </state>
       </provider>
@@ -430,10 +530,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Site/about.html">
+    <entry file="file://$PROJECT_DIR$/Site/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2783505" vertical-offset="243" max-vertical-offset="825">
-          <caret line="27" column="34" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="1991" max-vertical-offset="2610">
+          <caret line="168" column="1" selection-start-line="168" selection-start-column="1" selection-end-line="168" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Site/easteregg.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7474227" vertical-offset="0" max-vertical-offset="582">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
         </state>
       </provider>
