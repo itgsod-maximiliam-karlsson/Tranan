@@ -187,21 +187,12 @@ a{
     margin-right: auto;
 }
 
-#facebook {
+#websitelinks div {
     width:50px;
     height:50px;
-    background:url(Pictures/Photoshoped/Social_loggos.png) 0 0px;
     float: left;
 }
-#youtube {
-    width:50px;
-    height:50px;
-    background:url(Pictures/Photoshoped/Social_loggos.png) 0 -50px;
-    float: left;
-}
-#twitter {
-    width:50px;
-    height:50px;
-    background:url(Pictures/Photoshoped/Social_loggos.png) -50px 0px;
-    float: left;
-}
+
+#facebook { background:url(Pictures/Photoshoped/Social_loggos.png) 0 0px; }
+#youtube { background:url(Pictures/Photoshoped/Social_loggos.png) 0 -50px; }
+#twitter { background:url(Pictures/Photoshoped/Social_loggos.png) -50px 0px; }
