@@ -1,6 +1,6 @@
 body{
     background-color: black;
-    background-image:url('./Pictures/Photoshoped/Background2.png');
+    background-image:url('./Pictures/Photoshoped/Background.png');
     background-repeat:no-repeat;
     background-attachment:fixed;
     background-position:center;
@@ -167,7 +167,7 @@ a{
 }
 
 #img_div_trip{
-padding-top: 500px;
+    padding-top: 500px;
 }
 
 #img_div_space{
@@ -178,9 +178,30 @@ padding-top: 500px;
     font-size: 15px;
     color: white;
 }
+
 #websitelinks{
-    background-color: hotpink;
-    width: 100%;
+    width: 150px;
     height: 50px;
-    float: right;
+    padding-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#facebook {
+    width:50px;
+    height:50px;
+    background:url(Pictures/Photoshoped/Social_loggos.png) 0 0px;
+    float: left;
+}
+#youtube {
+    width:50px;
+    height:50px;
+    background:url(Pictures/Photoshoped/Social_loggos.png) 0 -50px;
+    float: left;
+}
+#twitter {
+    width:50px;
+    height:50px;
+    background:url(Pictures/Photoshoped/Social_loggos.png) -50px 0px;
+    float: left;
 }
