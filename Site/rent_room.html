@@ -2,7 +2,7 @@
 <html>
 <head>
     <script type="text/javascript" src="jquery-1.2.6.min.js"></script>
-
+    <link rel="stylesheet" href="card.css">
     <script type="text/javascript">
         function slideSwitch() {
             var $active = $('#slideshow DIV.active');
@@ -31,7 +31,23 @@
     <link rel="stylesheet" href="main.css"/>
 </head>
 <body>
-    <div id="Countainer">
+<style>
+    .formum {
+        width: 350px;
+        margin: 50px auto;
+    }
+
+    form {
+        margin: 30px;
+    }
+    input {
+        width: 200px;
+        margin: 10px auto;
+        display: block;
+    }
+
+</style>
+    <div id="Countainer_rent">
         <div id="Header">
             <h1>Rapture Crane</h1>
         </div>
@@ -74,10 +90,31 @@
                         <input type="image" src="https://www.paypalobjects.com/en_US/SE/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
                         <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
                     </form>
+                    <p>Buy now</p>
+                    <div class="formum">
+                        <div class="card-wrapper"></div>
+
+                        <div class="form-container active">
+                            <form action="">
+                                <input placeholder="Card number" type="text" name="number">
+                                <input placeholder="Full name" type="text" name="name">
+                                <input placeholder="MM/YY" type="text" name="expiry">
+                                <input placeholder="CVC" type="text" name="cvc">
+                            </form>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="card.js"></script>
+<script>
+    $('.active form').card({ container: $('.card-wrapper')})
+</script>
 </body>
 </html>
+
+
+
 
